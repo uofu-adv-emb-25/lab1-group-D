@@ -1,0 +1,1 @@
+![Group G Badge](https://github.com/uofu-adv-emb-25/lab1-group-D/actions/workflows/main.yml/badge.svg)
